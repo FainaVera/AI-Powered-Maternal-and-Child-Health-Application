@@ -25,7 +25,7 @@ This AI-powered maternal and child health application built using Dart, JavaScri
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/FainaVera/AI-Powered-Maternal-and-Child-Health-Application.git
-cd maternal-child-health-app
+cd AI-Powered-Maternal-and-Child-Health-Application
 ```
 ### 3. Install dependencies
 ```bash
