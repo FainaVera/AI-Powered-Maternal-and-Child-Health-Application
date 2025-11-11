@@ -9,7 +9,7 @@ This AI-powered maternal and child health application built using Dart, JavaScri
 - **Appointment Tracking** – Schedule, update, and monitor medical appointments.
 - **WHO-Based Child Growth Evaluation** – Analyze growth metrics against WHO child development standards.
 - **AI-Powered Nutrition Tips** – Generate personalized dietary and nutrition advice based on the WHO assessment using Groq API.
-- **Multi-Language Support** – Built-in support for multiple languages. (Currently includes South Indian languages only, others can be added)
+- **Multi-Language Support** – Built-in support for multiple languages. (Currently includes South Indian languages only)
 - **MongoDB Data Storage** – Cloud-based data storage for mother and child information.
 
 ---
@@ -45,8 +45,7 @@ flutter run
 ## Usage
 
 1. **Register/Login**: Create an account or log in to access features
-2. **Add Patients**: Register pregnant lady or child records
+2. **Add patients**: Register pregnant lady or child records
 3. **Appointments**: Track next appointment
-4. **Monitor Growth**: Track child growth through WHO-based evaluations
-5. **AI Tips**: Receive personalized nutrition and care recommendations for each child given by AI
-6. **Language Support**: Select preferred language from dropdown
+4. **Monitor growth with tips from AI**: Track child growth through WHO-based evaluations and receive personalized nutrition and care recommendations for each child through groq Llama 3 API.
+5. **Language support**: Select preferred language from dropdown
